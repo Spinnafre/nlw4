@@ -1,0 +1,1 @@
+Criar arquivo .env contendo a seguinte configuraçã: URL_MAIL=http://localhost:port/answer
